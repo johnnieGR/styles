@@ -1,0 +1,72 @@
+/* TABOOLA CSS START */
+#taboola-below-player2 { margin-bottom:10px; }
+
+#taboola-below-home-slider div.videoCube:nth-of-type(n+6),
+#taboola-below-player div.videoCube:nth-of-type(n+6),
+#taboola-below-player2 div.videoCube:nth-of-type(n+6),
+#taboola-below-player3 div.videoCube:nth-of-type(n+6) {display:none;visibility:hidden; }
+	
+@media screen and (max-width: 1594px) and (min-width: 1337px) {
+		#taboola-below-home-slider div.videoCube:nth-of-type(n+5),
+		#taboola-below-player div.videoCube:nth-of-type(n+5),
+		#taboola-below-player2 div.videoCube:nth-of-type(n+5),
+		#taboola-below-player3 div.videoCube:nth-of-type(n+5) { display:none;visibility:hidden; }}
+@media screen and (max-width: 1336px) and (min-width: 1250px) {
+		#taboola-below-home-slider div.videoCube:nth-of-type(n+4),
+		#taboola-below-player div.videoCube:nth-of-type(n+4),
+		#taboola-below-player2 div.videoCube:nth-of-type(n+4),
+		#taboola-below-player3 div.videoCube:nth-of-type(n+4) { display:none;visibility:hidden; }}
+@media screen and (max-width: 1249px) and (min-width: 1120px) {
+		#taboola-below-home-slider div.videoCube:nth-of-type(n+5),
+		#taboola-below-player div.videoCube:nth-of-type(n+5),
+		#taboola-below-player2 div.videoCube:nth-of-type(n+5),
+		#taboola-below-player3 div.videoCube:nth-of-type(n+5) { display:none;visibility:hidden; }}
+@media screen and (max-width: 1199px) and (min-width: 1165px) {
+		#taboola-below-home-slider div.videoCube:nth-of-type(n+5),
+		#taboola-below-player div.videoCube:nth-of-type(n+5),
+		#taboola-below-player2 div.videoCube:nth-of-type(n+5),
+		#taboola-below-player3 div.videoCube:nth-of-type(n+5) { display:none;visibility:hidden; }}
+@media screen and (max-width: 1164px) and (min-width: 1004px) {
+		#taboola-below-home-slider div.videoCube:nth-of-type(n+4),
+		#taboola-below-player div.videoCube:nth-of-type(n+4),
+		#taboola-below-player2 div.videoCube:nth-of-type(n+4),
+		#taboola-below-player3 div.videoCube:nth-of-type(n+4) { display:none;visibility:hidden; }}
+@media screen and (max-width: 1003px) and (min-width: 841px)  {
+		#taboola-below-home-slider div.videoCube:nth-of-type(n+5),
+		#taboola-below-player div.videoCube:nth-of-type(n+5),
+		#taboola-below-player2 div.videoCube:nth-of-type(n+5),
+		#taboola-below-player3 div.videoCube:nth-of-type(n+5) { display:none;visibility:hidden; }}
+@media screen and (max-width: 840px) and (min-width: 549px)   {
+		#taboola-below-home-slider div.videoCube:nth-of-type(n+4),
+		#taboola-below-player div.videoCube:nth-of-type(n+4),
+		#taboola-below-player2 div.videoCube:nth-of-type(n+4),
+		#taboola-below-player3 div.videoCube:nth-of-type(n+4) { display:none;visibility:hidden; }}
+@media screen and (max-width: 548px) and (min-width: 465px)   {
+		#taboola-below-home-slider div.videoCube:nth-of-type(n+3),
+		#taboola-below-player div.videoCube:nth-of-type(n+3),
+		#taboola-below-player2 div.videoCube:nth-of-type(n+3),
+		#taboola-below-player3 div.videoCube:nth-of-type(n+3) { display:none;visibility:hidden; }}
+@media screen and (max-width: 464px) and (min-width: 1px)     {
+		#taboola-below-home-slider div.videoCube:nth-of-type(n+2),
+		#taboola-below-player div.videoCube:nth-of-type(n+2),
+		#taboola-below-player2 div.videoCube:nth-of-type(n+2),
+		#taboola-below-player3 div.videoCube:nth-of-type(n+2) { display:none;visibility:hidden; }}
+
+    #taboola-right-rail-thumbnails-group1-n1 div.videoCube:nth-of-type(n+2),
+    #taboola-right-rail-thumbnails-group1-n2 div.videoCube:nth-of-type(n+2) {display:none;visibility:hidden;}
+    #taboola-right-rail-thumbnails-group2-n1 div.videoCube:nth-of-type(n+3),
+    #taboola-right-rail-thumbnails-group2-n2 div.videoCube:nth-of-type(n+3) {display:none;visibility:hidden;}
+
+    .thumbnails-a .videoCube .video-label-box .video-title {
+      font-family: inherit;
+      font-size: larger;
+    }
+    #taboola-below-player .thumbnails-a .videoCube .video-label-box .video-title, #taboola-below-player .trc_header_ext a span {
+      color: #fff;
+    }
+    #taboola-below-player .trc_rbox_header_span { display: none; }
+    .thumbnails-a .syndicatedItem .branding {
+      font-family: inherit;
+      font-size: xx-small;
+    }
+/* TABOOLA CSS END */
